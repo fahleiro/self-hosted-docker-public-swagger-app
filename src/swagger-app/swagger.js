@@ -1,6 +1,6 @@
 module.exports = {
 
-  swagger: '2.0',
+  swagger: '3.0',
 
   info: {
 
