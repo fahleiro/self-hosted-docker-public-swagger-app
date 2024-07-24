@@ -20,6 +20,6 @@ tunnels:
 
         - ifWanted.com.br
 
-      allow_domains:
+      allow_emails:
 
         - ifWanted@provider.com.br
