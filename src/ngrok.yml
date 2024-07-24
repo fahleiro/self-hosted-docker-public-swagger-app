@@ -1,0 +1,22 @@
+version: "2"
+
+authtoken: ngrokAuthToken
+
+region: us
+
+tunnels:
+
+  myapp:
+
+    proto: http
+
+    addr: 25000
+
+    oauth:
+
+      provider: ifWanted
+
+      allow_domains:
+
+        - ifWanted.com.br
+
